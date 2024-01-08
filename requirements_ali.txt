@@ -1,5 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
+# 阿里gpu conda环境  ：安装 conda install --yes --file requirements_ali.txt
 # platform: linux-64
 _libgcc_mutex=0.1=main
 _openmp_mutex=5.1=1_gnu
